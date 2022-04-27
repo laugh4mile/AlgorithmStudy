@@ -1,4 +1,3 @@
-package 백준_멀티탭스케쥴링;
 import java.io.*;
 import java.util.*;
 public class 현욱 {
