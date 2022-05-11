@@ -125,3 +125,4 @@ local.properties
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,visualstudiocode
 # End of https://www.toptal.com/developers/gitignore/api/java
 
+src/.vscode/settings.json
